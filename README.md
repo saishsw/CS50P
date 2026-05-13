@@ -6,21 +6,5 @@ Layout:
 
 - Week0/ ... Week8/: exercise files and tests (where provided)
 
-Usage:
-
-1. Clone the repo
-2. Optionally create a virtual environment:
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt  # if you add dependencies
-```
-
-3. Run individual scripts directly, for example:
-
-```bash
-python3 Week0/einstein.py
-```
-
-License: choose one if you want to publish (MIT recommended for learning repos).
+Timeline:
+- 05/1/2026 - 05/9/2026
